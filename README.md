@@ -1,5 +1,5 @@
-# 21daysproblemsolving
-21days problem solving challenge tracker
+# 21daysproblemsolvingwithspg
+21 days problem solving challenge tracker
 
 ## From 01-01-2023 to 21-01-2023
 
