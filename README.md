@@ -9,4 +9,6 @@
 | 2 | 02-01-2023 | String | Easy | [Detect Capital](https://leetcode.com/problems/detect-capital/description/)| [Show](https://leetcode.com/problems/detect-capital/submissions/869826115/)| [Show](https://leetcode.com/problems/detect-capital/submissions/869690462/) |
 | 3 | 03-01-2023 | String | Easy | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)| [Show](https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/870538729/)| ----------|
 | 4 | 04-01-2023 | HashMap | Medium | [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)| [Show](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/submissions/871243135/)| ----------|
+| 5 | 05-01-2023 | Sorting | Medium | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)| [Show](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/872009207/)| ----------|
+| 6 | 06-01-2023 | Sorting | Medium | [Maximum Ice Cream Bars](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)| [Show](https://leetcode.com/problems/maximum-ice-cream-bars/submissions/872768679/)| ----------|
 
